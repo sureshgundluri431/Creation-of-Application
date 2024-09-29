@@ -3,3 +3,5 @@ from django.http import HttpResponse
 # Create your views here.
 def App_Creation(request):
     return HttpResponse('App Creation in the Django-Project')
+
+
